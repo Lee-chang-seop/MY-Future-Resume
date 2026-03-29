@@ -1,7 +1,6 @@
 # Future Resume
 
 > ⚠️ **이 이력서는 가상의 이력서로 사실과 다른 부분이 일부 존재합니다.**
----
 
 ## 🔍 Name
 이창섭
@@ -9,16 +8,12 @@
 ## 📧 Email
 dlckdtjq1012@naver.com
 
----
-
 ## 💡 About Me
 안녕하세요.  
 데이터 분석가를 목표로 성장하고 있는 이창섭입니다.  
 데이터 분석과 머신러닝을 통해 의미 있는 인사이트를 도출하고  
 실제 문제 해결에 기여하는 것에 관심이 있습니다.  
 데이터 기반 의사결정을 지원하는 시스템을 구축하는 것이 목표입니다.
-
----
 
 ## 🎓 Education
 - 광운대학교
@@ -30,8 +25,6 @@ dlckdtjq1012@naver.com
     - AI수학
     - 데이터베이스
 
----
-
 ## 📃 Internship
 - **`Google` AI Intern** (2024)
     - 자연어 처리 모델 개발 참여
@@ -40,8 +33,6 @@ dlckdtjq1012@naver.com
 - **`SAMSUNG` Data Intern** (2025)
     - 사용자 행동 로그 데이터를 기반으로 데이터 분석 프로젝트 수행
     - 사용자 이탈 예측을 위한 머신러닝 모델 개발 및 성능 평가
-
----
 
 ## 💻 Projects
 
@@ -61,8 +52,6 @@ dlckdtjq1012@naver.com
     - Pull Request를 통해 기능 추가 및 버그 수정 수행
     - 프로젝트 주요 기여자(Core Contributor)로 인정
 
----
-
 ## 📜 Certifications
 | 자격명 | 취득일 |
 |:---:|:---:|
@@ -70,18 +59,12 @@ dlckdtjq1012@naver.com
 |SQLD|2024.09.20|
 |빅데이터분석기사|2025.07.11|
 
----
-
 ## 🏆 Awards
 - Kaggle Competition 1위 (2024)
 - 전국 해커톤 대상 (2025)
 
----
-
 ## 🔗 Links
 - [GitHub](https://github.com/Lee-chang-seop)
-
----
 
 ## 📌 References
 - **광운대학교 정보융합학부 박규동 교수님**
